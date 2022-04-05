@@ -1,0 +1,8 @@
+﻿  Board.cpp
+G:\School Classes\CIS243\Projects\Project 1\YetiHunt\YetiHunt\Teams.h(19,59): error C2061: syntax error: identifier 'BoardClass'
+  Cryptids.cpp
+G:\School Classes\CIS243\Projects\Project 1\YetiHunt\YetiHunt\Cryptids.h(20,76): error C2061: syntax error: identifier 'BoardClass'
+  YetiHunt.cpp
+G:\School Classes\CIS243\Projects\Project 1\YetiHunt\YetiHunt\Teams.h(19,100): error C2061: syntax error: identifier 'CryptidClass'
+  Generating Code...
+G:\School Classes\CIS243\Projects\Project 1\YetiHunt\YetiHunt\YetiHunt.cpp(16,7): warning C4101: 'gameBoard': unreferenced local variable
